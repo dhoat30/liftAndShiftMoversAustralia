@@ -1,8 +1,8 @@
 export const contactInfo = { 
     info:[ 
         {
-            url: "tel:0450 033 171", 
-            label: "0450 033 171",
+            url: "tel:1300 041 126", 
+            label: "1300 041 126",
             icon: { 
                 url: "/phone.png", 
                 alt: "phone icon" 
